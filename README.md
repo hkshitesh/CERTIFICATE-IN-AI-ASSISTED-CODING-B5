@@ -22,6 +22,3 @@ source .venv/bin/activate
   git config --global user.email "your.email@example.com"
   
   git commit -m "commit message"
-
-
-Create a new github repository named as expenseflow-b5 on my github account and push this project code in my newly created github repository. My account name is hkshitesh@gmail.com and my PAT token is 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
