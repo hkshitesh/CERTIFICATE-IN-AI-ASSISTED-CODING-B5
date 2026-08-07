@@ -9,3 +9,16 @@ python3 -m venv .venv
 
 source .venv/bin/activate
 
+## Important Git Commands
+
+  git init
+  
+  git status
+  
+  git add .
+  
+  git config --global user.name "Your Name"
+  
+  git config --global user.email "your.email@example.com"
+  
+  git commit -m "commit message"
